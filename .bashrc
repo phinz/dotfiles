@@ -4,7 +4,6 @@ export PATH="/c/Program Files (x86)/Mozilla Firefox:$PATH"
 # Custom alias
 alias browse='firefox'
 alias sublime='sublime_text'
-alias leo='firefox'
 
 # Filesystem
 alias ..='cd ..'            # Go up one directory
